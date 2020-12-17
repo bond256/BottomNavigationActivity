@@ -5,4 +5,7 @@
     <string name="call">Call</string>
     <string name="chat">chat</string>
     <string name="email">Email</string>
+    <string name="call">Call</string>
+    <string name="email">Email</string>
+    <string name="chats">Chat</string>
 </resources>
